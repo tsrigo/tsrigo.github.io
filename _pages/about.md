@@ -25,7 +25,7 @@ I am a Master's student in Cyberspace Security at Shanghai Jiao Tong University 
 
 <div class='paper-box'><div class='paper-box-image'><div>
 <img src='images/AlphaApollo.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text'>
+<div class='paper-box-text' markdown="1">
 
 AlphaApollo: A System for Deep Agentic Reasoning.<br />
 Zhanke Zhou, Chentao Cao, Xiao Feng, Xuan Li, Zongze Li, Xiangyu Lu, Jiangchao Yao, **Weikai Huang**, Tian Cheng, Jianghangfan Zhang, Tangyu Jiang, Linrui Xu, Yiming Zheng, Brando Miranda, Tongliang Liu, Sanmi Koyejo, Masashi Sugiyama, Bo Han<br />
