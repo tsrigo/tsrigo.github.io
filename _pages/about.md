@@ -23,16 +23,19 @@ I am a Master's student in Cyberspace Security at Shanghai Jiao Tong University 
   - **Weikai Huang**, Xiangyu Wang, Dan Zhu, Xindi Ma, Jianfeng Ma
   - [[Paper]](https://ieeexplore.ieee.org/document/11303269) [[Code]](https://github.com/XYWANG-XDU/SSE-CMR)
 
+<!-- AlphaApollo -->
 <div class='paper-box'><div class='paper-box-image'><div>
 <img src='images/AlphaApollo.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text'>
+<div class='paper-box-text' markdown="1">
 
-AlphaApollo: A System for Deep Agentic Reasoning.<br />
-Zhanke Zhou, Chentao Cao, Xiao Feng, Xuan Li, Zongze Li, Xiangyu Lu, Jiangchao Yao, <strong>Weikai Huang</strong>, Tian Cheng, Jianghangfan Zhang, Tangyu Jiang, Linrui Xu, Yiming Zheng, Brando Miranda, Tongliang Liu, Sanmi Koyejo, Masashi Sugiyama, Bo Han<br />
-<a href="https://arxiv.org/pdf/2510.06261">[paper]</a>
-<a href="https://github.com/tmlr-group/AlphaApollo">[code]</a>
-<a href="https://alphaapollo.org/">[website]</a>
-
+AlphaApollo: A System for Deep Agentic Reasoning.  
+Zhanke Zhou, Chentao Cao, Xiao Feng, Xuan Li, Zongze Li, Xiangyu Lu, Jiangchao Yao,  
+**Weikai Huang**, Tian Cheng, Jianghangfan Zhang, Tangyu Jiang, Linrui Xu, Yiming Zheng,  
+Brando Miranda, Tongliang Liu, Sanmi Koyejo, Masashi Sugiyama, Bo Han  
+Technical Report.
+[[paper]](https://arxiv.org/pdf/2510.06261)
+[[code]](https://github.com/tmlr-group/AlphaApollo)
+[[website]](https://alphaapollo.org/)
 </div>
 </div>
 
