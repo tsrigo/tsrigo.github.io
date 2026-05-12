@@ -17,7 +17,7 @@ I am a Master's student in Cyberspace Security at [Shanghai Jiao Tong University
 
 # 🔥 News
 - *2026.05*: &nbsp;🎉🎉 Attending VALSE 2026 (May 8–10). Feel free to reach out if you'd like to meet!
-- *2025.12*: &nbsp;🎉🎉 One paper has been accepted by IEEE TIFS!
+- *2025.12*: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Information Forensics and Security!
 
 
 # 📖 Educations
@@ -34,7 +34,7 @@ I am a Master's student in Cyberspace Security at [Shanghai Jiao Tong University
 
 When Multimedia Meets Security: Privacy-Preserving Cross-Modal Retrieval for Large-Scale Data.  
 **Weikai Huang**, Xiangyu Wang, Dan Zhu, Xindi Ma, Jianfeng Ma  
-IEEE TIFS 2026.
+IEEE Transactions on Information Forensics and Security 2025.
 [[paper]](https://ieeexplore.ieee.org/document/11303269)
 [[code]](https://github.com/XYWANG-XDU/SSE-CMR)
 </div>
