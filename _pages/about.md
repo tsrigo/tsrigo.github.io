@@ -29,7 +29,7 @@ I am a Master's student in Cyberspace Security at Shanghai Jiao Tong University 
 
 <!-- TIFS 2026 -->
 <div class='paper-box'><div class='paper-box-image'><div>
-<img src='images/system_model.png' alt="sym" width="100%"></div></div>
+<a href='images/system_model.png'><img src='images/system_model.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 When Multimedia Meets Security: Privacy-Preserving Cross-Modal Retrieval for Large-Scale Data.  
@@ -42,7 +42,7 @@ IEEE TIFS 2026.
 
 <!-- AlphaApollo -->
 <div class='paper-box'><div class='paper-box-image'><div>
-<img src='images/AlphaApollo.png' alt="sym" width="100%"></div></div>
+<a href='images/AlphaApollo.png'><img src='images/AlphaApollo.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 AlphaApollo: A System for Deep Agentic Reasoning.  
