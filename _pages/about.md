@@ -10,11 +10,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Master's student in Cyberspace Security at Shanghai Jiao Tong University (SJTU). My research interests lie in **Agentic Systems & LLM Reasoning**, with a focus on tool-augmented LLMs, reinforcement learning for mathematical reasoning, and self-evolving memory mechanisms. I am actively seeking PhD opportunities.
+I am a Master's student in Cyberspace Security at Shanghai Jiao Tong University (SJTU). My research interests lie in **Agentic Systems & LLM Reasoning**, with a focus on tool-augmented LLMs, reinforcement learning for mathematical reasoning, and self-evolving memory mechanisms. I am actively seeking PhD opportunities starting Fall 2028.
 
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉🎉 Attended VALSE 2026 (May 8–10).
+- *2026.05*: &nbsp;🎉🎉 Attending VALSE 2026 (May 8–10). Feel free to reach out if you'd like to meet!
+- *2025.12*: &nbsp;🎉🎉 One paper has been accepted by IEEE TIFS!
 
 
 # 📖 Educations
@@ -56,7 +57,3 @@ Technical Report.
 
 # 🎖 Honors and Awards
 - *2024.11*: &nbsp; Special Prize (Top 2), The 9th National Cryptography Technology Competition.
-
-
-# 💬 Services
-- Conference Reviewer: ICLR 2026, ICML 2026, NeurIPS 2026, AAAI 2026.
