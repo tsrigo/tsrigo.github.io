@@ -10,7 +10,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Master's student in Cyberspace Security at Shanghai Jiao Tong University (SJTU). My research interests lie in **Agentic Systems & LLM Reasoning**, with a focus on tool-augmented LLMs, reinforcement learning for mathematical reasoning, and self-evolving memory mechanisms. I am actively seeking PhD opportunities starting Fall 2028.
+I am a Master's student in Cyberspace Security at Shanghai Jiao Tong University (SJTU). My research interests lie in **Agentic Systems & LLM Reasoning**, with a focus on tool-augmented LLMs, reinforcement learning for mathematical reasoning, and self-evolving memory mechanisms. Previously, I received my B.E. degree from Xidian University, where I worked closely with [Prof. Xiangyu Wang](https://web.xidian.edu.cn/wangxiangyu/).
+
+<span style="color:#B91C1C">📢 I am actively seeking PhD opportunities starting Fall 2028.</span>
 
 
 # 🔥 News
