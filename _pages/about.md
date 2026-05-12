@@ -22,7 +22,7 @@ I am a Master's student in Cyberspace Security at [Shanghai Jiao Tong University
 
 # 📖 Educations
 - *2025.09 - 2028.03 (Expected)*, M.S. in Cyberspace Security, [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), China.
-- *2021.09 - 2025.06*, B.E. in Cyberspace Security (Elicit Class), Xidian University, China. GPA: 3.8/4.0.
+- *2021.09 - 2025.06*, B.E. in Cyberspace Security (Elicit Class), [Xidian University](https://en.xidian.edu.cn/), China. GPA: 3.8/4.0.
 
 
 # 📝 Publications
