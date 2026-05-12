@@ -12,7 +12,7 @@ redirect_from:
 
 I am a Master's student in Cyberspace Security at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) (SJTU). My research interests lie in **Agentic Systems & LLM Reasoning**, with a focus on tool-augmented LLMs, reinforcement learning for mathematical reasoning, and self-evolving memory mechanisms. Previously, I received my B.E. degree from Xidian University, where I worked closely with [Prof. Xiangyu Wang](https://web.xidian.edu.cn/wangxiangyu/).
 
-<span style="color:#B91C1C">📢 I am actively seeking PhD opportunities starting Fall 2028.</span>
+<span style="color:#B91C1C">📢 I am actively seeking PhD opportunities starting Fall 2028. I am always open to discussion — feel free to reach out to me at <a href="mailto:weikaihuang@outlook.com">weikaihuang@outlook.com</a> or [WeChat](images/wechat.png).</span>
 
 
 # 🔥 News
@@ -59,7 +59,3 @@ Technical Report.
 
 # 🎖 Honors and Awards
 - *2024.11*: &nbsp; Special Prize (Top 2), The 9th National Cryptography Technology Competition.
-
-
-# 💬 Contact
-I am always open to academic collaboration and discussion. Feel free to reach out to me at <a href="mailto:weikaihuang@outlook.com">weikaihuang@outlook.com</a> or [WeChat](images/wechat.png).
