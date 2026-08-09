@@ -40,6 +40,21 @@ IEEE Transactions on Information Forensics and Security 2025.
 </div>
 </div>
 
+<!-- AlphaDiana -->
+<div class='paper-box'><div class='paper-box-image'><div>
+<a href='images/AlphaDiana.png'><img src='images/AlphaDiana.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+AlphaDiana: A System for Evaluating Reasoning Agents.  
+Zhanke Zhou\*, Zongze Li\*, **Weikai Huang**\*, Xuan Li\*, Chentao Cao\*, Xiao Feng, Xiangyu Lu,  
+Jinbo Hu, Menghan Lu, Yi Xie, Nico Pelleriti, Shiyang Liu, Max Zimmer, Brando Miranda,  
+Jiangchao Yao, Bo Liu, Sanmi Koyejo, Sebastian Pokutta, Bo Han✉️  
+Technical Report.
+[[paper]](https://openreview.net/pdf/2f5ac4a204d8d85ebdbd88929a456e61ce0ceb84.pdf)
+[[code]](https://github.com/tmlr-group/AlphaDiana)
+</div>
+</div>
+
 <!-- AlphaApollo -->
 <div class='paper-box'><div class='paper-box-image'><div>
 <a href='images/AlphaApollo.png'><img src='images/AlphaApollo.png' alt="sym" width="100%"></a></div></div>

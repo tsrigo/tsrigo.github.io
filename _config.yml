@@ -7,7 +7,12 @@
 
 # Site Settings
 title                    : "Weikai Huang (黄炜锴)"
-description              : "Weikai Huang's Homepage. Research interests: Agentic Systems & LLM Reasoning."
+description              : "Weikai Huang (黄炜锴) — M.S. student at Shanghai Jiao Tong University (SJTU). Research interests: Agentic Systems & LLM Reasoning, tool-augmented LLMs."
+# Appended to <title> for search results. Keep it short — Google truncates ~60 chars.
+tagline                  : "SJTU | Agentic Systems & LLM Reasoning"
+# Canonical origin. Set explicitly so canonical/og:url survive builds outside
+# GitHub Pages (site.github.url is only injected by the GitHub Pages builder).
+url                      : "https://tsrigo.github.io"
 repository               : "tsrigo/tsrigo.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -57,6 +62,11 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  # Profile URLs emitted as schema.org "sameAs". This is the strongest signal
+  # Google has for tying these accounts to one person — add Google Scholar,
+  # OpenReview, ORCID, DBLP, LinkedIn and X here as you create them.
+  sameAs:
+    - "https://github.com/tsrigo"
 
 
 # Reading Files

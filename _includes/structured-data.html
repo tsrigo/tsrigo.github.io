@@ -1,0 +1,45 @@
+{% comment %}
+  schema.org/Person structured data.
+
+  Helps Google resolve "Weikai Huang" / "黄炜锴" to a single entity and tie it to
+  SJTU, Xidian, and your profile pages. The `sameAs` list is the strongest
+  signal here — add Google Scholar, OpenReview, ORCID, DBLP, LinkedIn and X to
+  `author.sameAs` in _config.yml as you create them.
+
+  Affiliation, alumniOf and knowsAbout are literals: update them here when your
+  position or research focus changes.
+{% endcomment %}
+{% assign sd_url = site.url | default: site.github.url %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": {{ site.author.name | jsonify }},
+  "alternateName": "黄炜锴",
+  "url": {{ sd_url | append: "/" | jsonify }},
+  "image": {{ site.author.avatar | prepend: "/" | prepend: sd_url | jsonify }},
+  "email": {{ site.author.email | prepend: "mailto:" | jsonify }},
+  "jobTitle": "Master's Student",
+  "description": {{ site.description | jsonify }},
+  "affiliation": {
+    "@type": "CollegeOrUniversity",
+    "name": "Shanghai Jiao Tong University",
+    "url": "https://en.sjtu.edu.cn/"
+  },
+  "alumniOf": {
+    "@type": "CollegeOrUniversity",
+    "name": "Xidian University",
+    "url": "https://en.xidian.edu.cn/"
+  },
+  "knowsAbout": [
+    "Agentic Systems",
+    "Large Language Model Reasoning",
+    "Tool-Augmented LLMs",
+    "Reinforcement Learning",
+    "Cyberspace Security"
+  ]{% if site.author.sameAs %},
+  "sameAs": [
+{% for profile in site.author.sameAs %}    {{ profile | jsonify }}{% unless forloop.last %},{% endunless %}
+{% endfor %}  ]{% endif %}
+}
+</script>

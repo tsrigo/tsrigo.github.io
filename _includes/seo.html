@@ -8,7 +8,7 @@
   {% assign canonical_url = page.url | replace: "index.html", "" | prepend: site.url %}
 {% endif %}
 
-<title>{{ site.title }} - Homepage</title>
+<title>{{ site.title }}{% if site.tagline %} | {{ site.tagline }}{% endif %}</title>
 
 {% assign seo_description = page.description | default: page.excerpt | default: site.description %}
 {% if seo_description %}
@@ -32,14 +32,23 @@
 <meta property="og:locale" content="en">
 <meta property="og:site_name" content="{{ site.title }}">
 <meta property="og:title" content="{{ site.title }}">
+<meta property="og:type" content="profile">
 
 {% if seo_url %}
   <link rel="canonical" href="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
   <meta property="og:url" content="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
 {% endif %}
 
-{% if page.excerpt %}
+{% if seo_description %}
+  <meta name="description" content="{{ seo_description }}">
   <meta property="og:description" content="{{ seo_description }}">
+{% endif %}
+
+{% if seo_url and site.author.avatar %}
+  {% assign seo_image = site.author.avatar | prepend: "/" | prepend: seo_url %}
+  <meta property="og:image" content="{{ seo_image }}">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:image" content="{{ seo_image }}">
 {% endif %}
 
 {% if site.twitter.username %}
